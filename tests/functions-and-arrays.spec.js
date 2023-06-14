@@ -1,4 +1,4 @@
-const shuffle = (currentArray) => {
+  const shuffle = (currentArray) => {
   const array = [...currentArray];
   let counter = array.length;
 
